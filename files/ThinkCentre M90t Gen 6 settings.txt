@@ -1,0 +1,15 @@
+Advanced-CPU Setup-TxT-Enabled
+Advanced-Intel(R) Total Memory Encryption-Enabled
+Security-Set Supervisor Password-HardPassword123
+Security-Password Policies-BIOS Password At System Boot-No
+Security-Password Policies-BIOS Password At Boot Device List-Yes
+Security-Password Policies-Require SVP when Flashing-Yes
+Security-Password Policies-Allow the Jumper to Clear SVP-No
+Security-Smart USB Protection-No Access
+Security-Secure Boot-Allow Microsoft 3rd Party UEFI CA-Disabled
+Security-Certificate-based BIOS Authentication-Allow the Jumper to Reset Certificate-No
+Security-Secure Core PC Level3-Enabled
+Security-Electronic Lock-Lock
+Security-Cover Tamper Detected-Enabled
+Security-Configuration Change Detection-Enabled
+Security-Key Part Replacement Detection-Authenticate
