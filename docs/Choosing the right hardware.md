@@ -14,7 +14,9 @@
 	- Option to disable changing BIOS version without supervisor password/certificate; 
 	- Option to block BIOS on opening case lid; 
 	- Saving system state in the TPM
-6 CPU must have fTPM(\*️⃣ (1))
+6 CPU must have: 
+	- fTPM(\*️⃣ (1)); 
+	- SME/TME - RAM encryption
 
 Also, be sure to check the internet for vulnerabilities in specific components.
 
@@ -32,6 +34,8 @@ Also, be sure to check the internet for vulnerabilities in specific components.
 	- Невозможность изменить версию биос без пароля/сертификата supervisor; 
 	- Наличие опции блокировки биоса при срабатывании датчика вскрытия корпуса; 
 	- Сохранение состояния системы для TPM модуля
-6 CPU должен иметь fTPM(\*️⃣ (1))
+6 CPU должен иметь:
+	- fTPM(\*️⃣ (1));
+	- SME/TME - Шифрование ОЗУ
 
 Также обязательно проверить в интернете наличие уязвимостей у конкретных компонентов.
