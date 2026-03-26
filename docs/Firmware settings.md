@@ -19,8 +19,7 @@ SECURITY SETTINGS:
 		Allow the Jumper to Clear SVP: No
 		Password Count Exceeded Error: Enabled
 	Secure Roll Back Prevention: Yes
-	Windows UEFI Firmware Update: Enabled
-	Smart USB Protection: No access(если не требуется подключение флэш-накопителей)
+	Smart USB Protection: No access(if no need for connecting flash-disk/**RU:** если не требуется подключение флэш-накопителей)
 	TCG Feature Setup:
 		Security Chip 2.0: Enabled
 		Clear TCG Security Feature: No
@@ -31,14 +30,14 @@ SECURITY SETTINGS:
 	Certificate-based BIOS Authentication(\*️⃣ (1)):
 		Allow the Jumper to Reset Certificate: No
 	Computrace:
-		Absolute Persistence Module: Enabled
+		Absolute Persistence Module: Disabled
 	Secure Core PC Level3: Enabled	
 	Electronic Lock: Lock
 	Cover Tamper Detected: Enabled
 	Configuration Change Detection: Enabled
 	Key Part Replacement Detection: Authenticate
 DEVICES SETTINGS:
-	Отключить то, что не понадобиться
+	Disable what you don't need. **RU:** Отключить то, что не понадобиться
 ADVANCED SETTINGS:
 	Cpu setup:
 		Intel(R) Virtualization Technology: Enabled
@@ -46,8 +45,8 @@ ADVANCED SETTINGS:
 		TxT: Enabled
 		IOMMU: Enabled
 	Intel(R) Manageability:
-		Intel(R) Manageability Control: Enabled
+		Intel(R) Manageability Control: Disabled
 		Intel(R) Manageability Reset: Disabled
-		 USB Provisioning: Disabled(после конфигурации)
+		 USB Provisioning: Disabled(after configuration/**RU:** после конфигурации)
 	Intel(R) Total Memory Encryption: Enabled
 	Intel(R) SIPP Support: Enabled
