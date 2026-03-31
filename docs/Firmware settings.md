@@ -1,11 +1,8 @@
 \*️⃣ (n)  -  It's enough to choose only one, other points with the same tag can be omitted; 
-**RU:** \*️⃣ (n)  - достаточно выбрать что-то одно, остальные пункты с такой же меткой можно опустить
 
 For example I'll use ThinkCentre M90t Gen 6 BIOS settings:
-**RU:** Для примера я буду использовать ThinkCentre M90t Gen 6 настройки BIOS:
-- [In USB Provisioning form / **RU:** В форме USB Provisioning](../files/ThinkCentre%20M90t%20Gen%206%20settings.txt)
+- [In USB Provisioning form](../files/ThinkCentre%20M90t%20Gen%206%20settings.txt)
 - In the visual form: 
-  **RU:** В визуальном виде:
 SECURITY SETTINGS:
 	Set supervisor password(\*️⃣ (1))
 	System Management Password Access Control:
@@ -19,7 +16,7 @@ SECURITY SETTINGS:
 		Allow the Jumper to Clear SVP: No
 		Password Count Exceeded Error: Enabled
 	Secure Roll Back Prevention: Yes
-	Smart USB Protection: No access(if no need for connecting flash-disk/**RU:** если не требуется подключение флэш-накопителей)
+	Smart USB Protection: No access(if no need for connecting flash-disk)
 	TCG Feature Setup:
 		Security Chip 2.0: Enabled
 		Clear TCG Security Feature: No
@@ -37,7 +34,7 @@ SECURITY SETTINGS:
 	Configuration Change Detection: Enabled
 	Key Part Replacement Detection: Authenticate
 DEVICES SETTINGS:
-	Disable what you don't need. **RU:** Отключить то, что не понадобиться
+	Disable what you don't need.
 ADVANCED SETTINGS:
 	Cpu setup:
 		Intel(R) Virtualization Technology: Enabled
@@ -47,6 +44,6 @@ ADVANCED SETTINGS:
 	Intel(R) Manageability:
 		Intel(R) Manageability Control: Disabled
 		Intel(R) Manageability Reset: Disabled
-		 USB Provisioning: Disabled(after configuration/**RU:** после конфигурации)
+		 USB Provisioning: Disabled(after configuration)
 	Intel(R) Total Memory Encryption: Enabled
 	Intel(R) SIPP Support: Enabled
